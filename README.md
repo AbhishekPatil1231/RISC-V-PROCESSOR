@@ -1,2 +1,2 @@
 # RISC-V-PROCESSOR
-THIS REPO CONSISTS OF ALL THE  STAGES FILES FOR SINGLE CYCLE RISC V CORE
+This repo consists of RISC V single cycle core design and its sub stages design in verilog-hdl
